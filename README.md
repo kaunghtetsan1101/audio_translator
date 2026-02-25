@@ -351,7 +351,9 @@ Project Link: [https://github.com/kaunghtetsan1101/audio_translator](https://git
 **Navneet Sai Danturi** — <!-- TODO: add your email or social handle -->
 
 Huggingface Profile : [https://huggingface.co/Nav772](https://huggingface.co/Nav772)
+
 GitHub Profile : [https://github.com/Algo-nav](https://github.com/Algo-nav)
+
 Backend (Hugging Face Space): [https://nav772-audio-language-translator.hf.space](https://nav772-audio-language-translator.hf.space)
 
 ---
