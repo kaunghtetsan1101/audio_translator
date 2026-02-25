@@ -7,7 +7,6 @@ A **Kotlin Multiplatform** mobile application that records or imports audio, the
 [![Build Status](https://img.shields.io/github/actions/workflow/status/kaunghtetsan1101/audio_translator/build.yml?branch=master&style=flat-square)](https://github.com/kaunghtetsan1101/audio_translator/actions)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=flat-square&logo=kotlin)](https://kotlinlang.org)
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-green?style=flat-square)](https://github.com/kaunghtetsan1101/audio_translator)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)](https://github.com/kaunghtetsan1101/audio_translator/releases)
 
 ---
@@ -26,8 +25,7 @@ A **Kotlin Multiplatform** mobile application that records or imports audio, the
 5. [Testing](#-testing)
 6. [Deployment](#-deployment)
 7. [Contributing](#-contributing)
-8. [License](#-license)
-9. [Contact](#-contact)
+8. [Contact](#-contact)
 
 ---
 
