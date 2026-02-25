@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+**/build/
+*.class
+
+# Local properties (contains SDK path, secrets)
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Kotlin/Native
+*.klib
+
+# Xcode
+iosApp/iosApp.xcodeproj/xcuserdata/
+iosApp/iosApp.xcworkspace/
+DerivedData/
+*.xcuserstate
